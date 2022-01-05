@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_localizations/flutter_localizations.dart';
-import 'package:travilling_app/screens/category_trips_screen.dart';
-import 'package:travilling_app/screens/filters_screen.dart';
-import 'package:travilling_app/screens/tabs_screens.dart';
-import 'package:travilling_app/screens/trip_deteal_screen.dart';
+import '../screens/category_trips_screen.dart';
+import '../screens/filters_screen.dart';
+import '../screens/tabs_screens.dart';
+import '../screens/trip_deteal_screen.dart';
 
 void main() {
   runApp(const MyApp());
